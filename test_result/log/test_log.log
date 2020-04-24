@@ -6902,3 +6902,5 @@
 【2020-04-07 19:46:14,498】-【DEBUG】-【my_log.py-Debug_log】-【日志信息】:Test_data :[1, 'PF10', 'uat_warning', '获取01_app产品列表_正向', 'get', '/app/risk_warning/get_symbol', "{'platform' : 'PF10'}", '美元日元']
 【2020-04-07 19:46:14,498】-【DEBUG】-【my_log.py-Debug_log】-【日志信息】:目前正常执行第 1 条 用例:
 【2020-04-07 19:46:29,861】-【ERROR】-【my_log.py-Debug_log】-【日志信息】:This is a mylog
+【2020-04-22 09:53:54,837】-【ERROR】-【my_log.py-Debug_log】-【日志信息】:This is a mylog
+【2020-04-22 09:54:12,705】-【ERROR】-【my_log.py-Debug_log】-【日志信息】:This is a mylog

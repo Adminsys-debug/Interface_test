@@ -6,7 +6,7 @@
 # @File    : my_log.py
 # @Software: PyCharm
 # @Email   : 794281961@qq.com
-
+import json
 
 from conf.read_config import ReadConfig
 import logging, tushare
